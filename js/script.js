@@ -1,5 +1,5 @@
 
-function gerarpersonagem (pimgdata,pname, pespecie ,pcondicao , id )
+function gerarPersonagem (pimgdata,pname, pespecie ,pcondicao , id )
 {
     const imagem = document.getElementById('img'+id);
     const botao = document.querySelector('button'+id);
@@ -37,7 +37,7 @@ pegarPersonagem = (i) =>
         var especiedop = data.species
         var condicaodop = data.status
 
-        gerarpersonagem(dataimage,datanomedop ,especiedop, condicaodop , i);
+        gerarPersonagem(dataimage,datanomedop ,especiedop, condicaodop , i);
     });
 }
 

@@ -1,4 +1,4 @@
 # desafio_zupp_luciano
 Desafio Zupp, vaga para Pessoa com Deficiência
 Muito obrigado, pela oportunidade: Zupp
-PCD: Luciano Garcia
+PCD: Luciano Nascimento
