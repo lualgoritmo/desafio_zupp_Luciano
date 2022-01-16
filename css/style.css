@@ -13,14 +13,14 @@ body {
     width: 13%;
     padding: 7px;
     margin-top: 20px;
-    margin-left: 15px;
+    margin-left: 180px;
     background-color: #008B8B;
     font-weight: 400;
     font-size: 1.1em;
     margin-bottom: 8px;
     border-radius: 6px;
 }
-section div
+section
 {
     display: flex;
     justify-content: center;
