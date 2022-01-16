@@ -45,8 +45,8 @@ pegarPersonagem = (i) =>
 
 function initial(totalPersonagens)
 {   
-    var totaldepersonagensacarrega = totalPersonagens;
-    for (var i = 0; i < (totaldepersonagensacarrega); i++) 
+    var totalDePersonagensCarregar = totalPersonagens;
+    for (var i = 0; i < (totalDePersonagensCarregar); i++) 
     {
         pegarPersonagem(i);
     }
