@@ -49,7 +49,7 @@ function initial(totalPersonagens)
     for (var i = 0; i < (totaldepersonagensacarrega); i++) 
     {
         pegarPersonagem(i);
-     }
+    }
 
 }
 
