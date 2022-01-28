@@ -2,7 +2,7 @@
 function gerarPersonagem (pimgdata,pname, pespecie ,pcondicao , id )
 {
     const imagem = document.getElementById('img'+id);
-    const botao = document.querySelector('button'+id);
+    const botao = document.querySelector('button');
     const nomeDoPersonagem = document.querySelector('#nome'+id);
     const especie = document.querySelector('#especie'+id);
     const condicao = document.querySelector('#condicao'+id);
